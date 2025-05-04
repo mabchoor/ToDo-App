@@ -293,4 +293,4 @@ class _AddTaskPageState extends State<AddTaskPage> {
 
 ## Conclusion
 
-This project showcases a beginner-friendly yet modern approach to building a Flutter app with essential features like task management, persistent data, animations, and responsive design. You can easily extend this app with more complex features like notifications, categorization, and syncing with cloud storage.
+This project showcases a beginner-friendly yet modern approach to building a Flutter app with essential features like task management, persistent data, animations, and responsive design.
